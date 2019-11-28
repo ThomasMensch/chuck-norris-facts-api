@@ -4,3 +4,4 @@ venv_test/*
 *__pycache__*
 *.env
 credentials/*
+/.project
